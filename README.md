@@ -30,4 +30,4 @@ You should expect to be welcomed and empowered. We are all students and teachers
 
 # Apply
 
-Please submit a résumé and cover letter to `volunteer` at `emeraldonion.org`. Tell us about the kind of internet that you want, and how you're going to help Emerald Onion help get everyone else there.
+Please email a résumé and cover letter to `volunteer` at `emeraldonion.org`. Tell us about the kind of internet that you want, and how you're going to help Emerald Onion help get everyone else there.
