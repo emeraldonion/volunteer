@@ -18,7 +18,7 @@ Even though Emerald Onion is 100% volunteer run, we don’t have any kind of HR-
 
 We’re an ISP doing BGP, Tor, DNS such as DoH, DoT, and DoQ, distributed cryptographic randomness as a service, censorship detection, and who knows what else in the future. We want to make the internet more anonymous (privacy), safer for everyone not just the privileged (encryption), more accessible (anti-censorship), and we want to do more.
 
-1. We want more help with our new DNS infrastructure. Currently we’re using Knot for DoH and DoT. e’re also experimenting with [DoQ](https://github.com/natesales/doqd), and also beginning some stuff with [ODoH](https://github.com/emeraldonion/odohd). This is cutting edge stuff.
+1. We want more help with our new DNS infrastructure. Currently we’re using `knot-resolver` for DoH and DoT. e’re also experimenting with [DoQ](https://github.com/natesales/doqd), and also beginning some stuff with [ODoH](https://github.com/emeraldonion/odohd). This is cutting edge stuff.
 
 2. We want more help managing and developing the network. BGP, anycast, peering, IPv6, Wireguard, post-quantum crypto (crypto means cryptography). From 2017-2020, our POPs only existed in the United States. In 2021, we deployed our first international POP in Berlin, Germany. We’re still struggling with edge routing so we’ve been playing around with XDP and VPP using Linux to try and speed things up while also maintaining basic firewall rules.
 
